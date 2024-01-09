@@ -13,22 +13,56 @@
     <h2>Proyectos</h2>
     <ul>
         <li>Más buscados</li>
-        <li><a href="#">Flying ducks</a></li>
-        <li><a href="#">Kitty kitty kitty</a></li>
+        <ul>
+            <li><a href="#">Flying ducks</a></li>
+            <li><a href="#">Kitty kitty kitty</a></li>
+        </ul>
     </ul>
+    
     <ul>
         <li>Últimos</li>
+        <ul>
         <li><a href="#">Avengers against Climate Change</a></li>
         <li><a href="#">Facedog</a></li>
+        </ul>
     </ul>    
-    <h1>Cronograma</h1>
-    <h1>Registrate!</h1>
+    <h2>Cronograma</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Hora</th>
+                <th>Tema</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>18:00 - 20:30</td>
+                <td>Registro</td>
+            </tr>
+            <tr>
+                <td>20:30 - 23:00</td>
+                <td>Charla</td>
+            </tr>
+        </tbody>
+
+    </table>
+    <h2>Registrate!</h2>
     <div>
         Nombre: <input type="text"/>
-        Email:  <input type="text"/>
-        Lugar:  <select><option>Lima</option> <option>Arequipa</option></select>
-        Género:
-        Experiencia: <input type="text"/>
     </div>
+    <div>
+        Email:  <input type="text"/>
+    </div>
+    <div>
+        Lugar:  <select><option>Lima</option> <option>Arequipa</option></select>
+    </div>
+    <div>
+        Género: <input type="radio" name="genero"/> Femenino <input type="radio" name="genero"/> Masculino
+    </div>
+    <div>
+        Experiencia:
+    </div>
+    <textarea rows="2"></textarea>
+    <div><button>Regístrarse</button></div>
 </body>
 </html>
