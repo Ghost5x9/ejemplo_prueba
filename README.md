@@ -9,7 +9,6 @@ Deberán clonar el repositorio y realizar sus cambios de forma personal. El prim
 
 Luego deberá leer las instrucciones de cada módulo y realizar lo que se le pide. Al finalizar con el módulo, debe subirlo a su propio repositorio Github y pedir por la verificación del jefe de práctica (agregar al jefe de práctica como colaborador).
 
-## Integrantes
+## Integrante
 
-- Integrante 1
-- Integrante 2
+- Daniel Taype
