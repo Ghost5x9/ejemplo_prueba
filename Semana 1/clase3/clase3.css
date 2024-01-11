@@ -1,0 +1,32 @@
+h1 {
+    background-color: aqua;
+    color: white;
+    text-align: center;
+}
+
+p {
+    background-color: blue;
+    color: white;
+}
+
+#parrafo1 {
+    background-color: aquamarine;
+}
+
+.grupo1 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#parrafos p {
+    font-size: larger;
+}
+
+img {
+    background-position: center;
+}
+
+a:visited {
+    color: #000;
+}
+
