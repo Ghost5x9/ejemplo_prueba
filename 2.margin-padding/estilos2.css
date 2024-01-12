@@ -1,24 +1,24 @@
 .fondo{
     padding: 8px; 
     font-size: 16px;  
-    background-color: rgb(11, 198, 223);
-    margin-bottom: 8px;
+    background-color: rgba(13, 216, 243, 0.979);
+    margin: 8px;
 }
 
 .fondo1{
-    background-color: rgb(11, 198, 223);
+    background-color: rgba(13, 216, 243, 0.979);
     padding-top: 16px;
     padding-bottom: 16px;
     padding-right: 8px;
     padding-left: 8px;
-    margin-bottom: 8px;
+    margin: 8px;
 }
 
 .fondo2{
-    background-color: rgb(11, 198, 223);
+    background-color: rgba(13, 216, 243, 0.979);
     padding: 8px;
+    margin: 8px;
 }
-
 
 .boton{
     margin-left: 8px;

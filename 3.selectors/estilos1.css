@@ -1,0 +1,13 @@
+.boton_negro{
+    background-color: black;
+    color: white;
+}
+
+.boton_amarillo{
+    background-color: yellow;
+}
+
+.botones{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
