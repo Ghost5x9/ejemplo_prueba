@@ -1,17 +1,28 @@
 .fondo{
-    padding: 8px;  
+    padding: 8px; 
     font-size: 16px;  
     background-color: rgb(11, 198, 223);
+    margin-bottom: 8px;
 }
 
 .fondo1{
     background-color: rgb(11, 198, 223);
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-right: 8px;
+    padding-left: 8px;
+    margin-bottom: 8px;
 }
 
 .fondo2{
     background-color: rgb(11, 198, 223);
+    padding: 8px;
 }
 
-.general{
-    margin: 8px;
+
+.boton{
+    margin-left: 8px;
+    margin-right: 8px;
+    padding-right: 24px;
+    padding-left: 24px;
 }
