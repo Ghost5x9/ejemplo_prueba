@@ -1,12 +1,12 @@
 .fondo{
     padding: 8px; 
     font-size: 16px;  
-    background-color: rgba(13, 216, 243, 0.979);
+    background-color: rgb(202, 229, 255);
     margin: 8px;
 }
 
 .fondo1{
-    background-color: rgba(13, 216, 243, 0.979);
+    background-color: rgb(202, 229, 255);
     padding-top: 16px;
     padding-bottom: 16px;
     padding-right: 8px;
@@ -15,11 +15,14 @@
 }
 
 .fondo2{
-    background-color: rgba(13, 216, 243, 0.979);
+    background-color: rgb(202, 229, 255);
     padding: 8px;
     margin: 8px;
 }
-
+.general{
+    margin-left:1000px;
+    margin-right:1000px;
+}
 .boton{
     margin-left: 8px;
     margin-right: 8px;

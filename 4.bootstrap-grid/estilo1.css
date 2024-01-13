@@ -1,0 +1,32 @@
+.fondo{
+    background-color: #EFE1C6;
+}
+
+.fondo_container{
+    background-color: white;
+    font-family: Arial;
+    width: 700px;
+    border-bottom: solid #66401A 10px;
+    padding: 10px;
+}
+
+.h{
+    color: #66401A;
+    font-family: Georgia;
+}
+
+.sub{
+    font-size: 24px;
+}
+
+.input{
+    background-color: #EFE1C6;
+}
+
+.proye{
+    margin-left: 1050px;
+    width: 200px;
+    background-color: #EFE1C6;
+    padding: 10px;
+    border: solid #66401A 1px;
+}
