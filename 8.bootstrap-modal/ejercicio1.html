@@ -25,6 +25,35 @@
                     <div class="col-md-6">
                         <div style="border-bottom: solid 1px rgb(211, 211, 211);">
                         <h3>Listado de Profesores</h3>
+                        <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">Registrar</button>
+                        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                            <div class="modal-dialog">
+                              <div class="modal-content">
+                                <div class="modal-header">
+                                  <h1 class="modal-title fs-5" id="exampleModalLabel">Registro de Alumno</h1>
+                                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                </div>
+                                <div class="modal-body">
+                                  <label class="form-label">Código</label>
+                                  <input type="text" class="form-control mb-3">
+                                    <label class="form-label">Nombre</label>
+                                    <input type="text" class="form-control mb-3">
+                                    <label class="form-label">Cursos</label>
+                                    <select class="form-select mb-3">
+                                        <option selected>Seleccionar opción</option>
+                                        <option value="opcion1">Promagración web</option>
+                                        <option value="opcion2">Ingeniería de Software 2</option>
+                                        <option value="opcion3">Lenguajes de Programación</option>
+                                    </select>
+                                </div>
+                                <div class="modal-footer">
+                                  <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                                  <button type="button" class="btn btn-primary">Guardar</button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        <p></p>
                         </div>
                         <table class="table">
                             <thead>
